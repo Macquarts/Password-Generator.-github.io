@@ -16,7 +16,6 @@ This assignment requires us to generate JavaScript generated random secure passw
 
 #### Functionality of the Password Generator:
 
-In order to view a secure password, 
 -  A password is randomly generated when the user is prompted to choose from a series of password criteria.
 - When the user-clicks the “generate password” button, a series of prompts for the password criteria are presented, starting with the password length range between   8-128. The prompt will loop until the user enters a valid number. 
 - Then the user is prompted to define if they need to use character types, lowercase, uppercase, numeric, and or special characters. 
