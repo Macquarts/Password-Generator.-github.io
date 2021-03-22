@@ -1,9 +1,10 @@
 
 # Password-Generator
 
+
 ##  Project Requirements: 
 
-This assignment requires us to generate JavaScript generated random secure password for the user.  Responsive user interface were used, so it could be viewed on multiple screen sizes. The password characters could include lowercase, uppercase, numbers and special characters.
+This assignment requires us to generate a random secure password application for employees, based on the criteria that they've selected.  The application runs in the browser and features updated HTML and CSS-powered JavaScript code. It uses a responsive user interface that adapts to multiple screen sizes. The password includes special characters, lowercase, uppercase, and numbers.
 
 
 ### Name of the Contributors
