@@ -28,8 +28,7 @@ In order to view a secure password,
 
 ##### Deployed page:
 
-
-
+https://macquarts.github.io/Password-generator.github.io/.
 
 ###### Landing Page:
 
