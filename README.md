@@ -28,7 +28,7 @@ This assignment requires us to generate a random secure password application for
 
 ##### Deployed page:
 
-https://macquarts.github.io/Password-generator.github.io/.
+https://macquarts.github.io/Password-generator
 
 ###### Landing Page:
 
